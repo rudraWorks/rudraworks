@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rudra</h1>
 <h3 align="center">I am a btech Information Technolgy undergrad currently in junior year. I try to solve real-world problems using technologies that I know. I love the combination of software engineering, creativity and innovation.  </h3>
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=590&lines=Hello+world!+;Rudra+this+side%2C+welcomes+you+to+my+profile!;Making+projects+that+solve+real-world+problems." alt="Typing SVG" /></a>
+<br>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraworks&label=Profile%20views&color=0e75b6&style=flat" alt="rudraworks" /> </p>
