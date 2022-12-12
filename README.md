@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **merudra754@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OSORVArmBhE8UOhAdz56ZomOyu4M5f9s/view](https://drive.google.com/file/d/1OSORVArmBhE8UOhAdz56ZomOyu4M5f9s/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
