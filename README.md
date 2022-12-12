@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraworks&label=Profile%20views&color=0e75b6&style=flat" alt="rudraworks" /> </p>
 
-[comment]: <> - 👨‍💻 All of my projects are available at [https://rudraworks.github.io/portfolio/](https://rudraworks.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://rudraworks.github.io/portfolio/](https://rudraworks.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://clearresearch.blogspot.com/](https://clearresearch.blogspot.com/)
 
