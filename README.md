@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://clearresearch.blogspot.com/](https://clearresearch.blogspot.com/)
 
-- 💬 Ask me about **Nodejs, JavaScript**
+- 💬 Ask me about **Nodejs, JavaScript** 
 
 - 📫 How to reach me **merudra754@gmail.com**
 
